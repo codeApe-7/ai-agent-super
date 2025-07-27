@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: ai-agent-spuer-app
+  profiles:
+    active: dev
